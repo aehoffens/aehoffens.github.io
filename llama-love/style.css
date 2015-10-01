@@ -52,4 +52,7 @@ table {
 
 /* -----------------END RESET---------------- */
 
-
+<style>
+	li{
+		list style:none; 
+		float:left;
