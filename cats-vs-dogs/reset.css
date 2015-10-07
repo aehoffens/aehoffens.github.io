@@ -51,17 +51,17 @@ table {
 
 <style>
 li {
-	display:inline-block;
+	float:left;
 	color:black;
 	font-size:50px;
 	margin:30px;
-	text-align:center;
+
 }
 
 ul{
 	text-align:center;
 	margin:0 auto;
-	width:50%;
+	width:100%;
 	border-top:5px solid black;
 	margin-top:10px;
 	border-bottom:5px solid black;
