@@ -50,11 +50,14 @@ table {
 /* END OF RESET - Start of Your CSS*/
 
 <style>
+
+
 li {
-	float:left;
-	color:black;
-	font-size:50px;
-	margin:30px;
+	display:inline-block;
+	background-color:red;
+	width:50px;
+	
+	
 
 }
 
