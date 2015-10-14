@@ -52,27 +52,14 @@ table {
 
 /* -----------------END RESET---------------- */
 
-section 1{
-    font-family: Helvetica,sans-serif;
-    padding: 20px;
-    margin: 20px;
-    float: center;
+article 1{
+	position:relative;
+	width:50%;
+	
+		}
 
-}
-
-section {
-    display: block;}
-
-
-section	2{
-	    margin: 0;
-	    padding: 0;
-	    border: 0;
-	    font-size: 100%;
-	    font: inherit;
-	    vertical-align: baseline;
-	}
-
-	section {
-	    display: block;
-	}
+article 2{
+	position:relative;
+	width:50%;
+	color:red;
+		}
