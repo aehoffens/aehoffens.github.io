@@ -52,14 +52,15 @@ table {
 
 /* -----------------END RESET---------------- */
 
-article 1{
-	position:relative;
+section{
+	float:left;
 	width:50%;
-	
-		}
+	font-family:helvetica;
+	font-size:20px;
 
-article 2{
-	position:relative;
+}
+
+img {
+	float:left;
 	width:50%;
-	color:red;
-		}
+}
