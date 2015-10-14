@@ -53,9 +53,9 @@ table {
 		display:inline-block;
 		color:black;
 		padding:10px;
-		font-size:40px;
+		font-size:30px;
 		margin:0px;
-		width:220px;
+		width:200px;
 		text-align:center;
 		text-transform:uppercase;
 		font-family:Georgia;
@@ -82,7 +82,8 @@ table {
 		}
 
 		header img{
-			display:inline-block
+			display:inline-block;
+			
 			}
 		
 		header{ 
@@ -94,13 +95,23 @@ table {
 			font-family:Georgia;
 			padding:10px;
 			font-weight:bold;
-				
+			
+		}
+		
+		body{
+			margin:0 auto;
+			display:block;
+			max-width:70em;
+			height:1000px;
+			font-family:Georgia;
+			font-size:100%;
+			text-align:left;
+			
 		}
 		
 		footer{
-			font-size:10px;
-			border:bottom;
-			
+			border-top:5px;
+			margin-bottom:5px;
 			
 			
 		}
