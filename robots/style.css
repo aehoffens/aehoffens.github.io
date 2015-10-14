@@ -50,3 +50,66 @@ table {
 	border-spacing: 0;
 }
 
+
+
+body{
+	margin:0 auto;
+	width:70%;
+}
+
+#site-wrapper{
+	width:100%;
+	background-color:brown
+		
+	}
+	
+	#site-header{
+		width:70%;
+		background-color:green;
+		margin:0 auto;
+		position:relative;
+		height:100px;
+		
+	}
+	
+	#site-header h1{
+		position:absolute;
+		top:0;
+		left:0;
+	}
+	
+	#site-header nav{
+		position:absolute;
+		top:0;
+		right:0;
+		
+	}
+	
+	#menu-wrapper{
+		width:100%;
+		background-color:lightgreen;
+		height:50px;
+		
+	}
+	
+	#main-menu{
+		margin:0 auto;
+		width:70%;
+		
+	}
+	
+	#main-menu li{
+		float:left;
+	}
+	
+	
+	#sidebar{
+		float:left
+		width30%
+		}
+	#page{
+		float:left;
+		width:70%;
+		
+		
+	}
