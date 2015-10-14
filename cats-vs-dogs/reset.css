@@ -48,53 +48,59 @@ table {
 }
 
 /* END OF RESET - Start of Your CSS*/
+	
+	li {
+		display:inline-block;
+		color:black;
+		padding:10px;
+		font-size:40px;
+		margin:0px;
+		width:220px;
+		text-align:center;
+		text-transform:uppercase;
+		font-family:Georgia;
+		
 
-<style>
+		}
 
+		ul{
+			text-align:center;
+			margin:0 auto;
+			width:100%;
+			border-top:5px solid black;
+			margin-top:5px;
+			border-bottom:5px solid black;
+			margin-bottom:5px solid black;
+	}
 
-li {
-	display:inline-block;
-	background-color:red;
-	width:50px;
-	
-	
+		section{
+			float:left;
+			width:50%;
+			vertical-align:baseline;
+			
+			
+		}
 
-}
-
-ul{
-	text-align:center;
-	margin:0 auto;
-	width:100%;
-	border-top:5px solid black;
-	margin-top:10px;
-	border-bottom:5px solid black;
-	margin-bottom:5px solid black;
-	
-}
-
-<style>
-p{
-	width:50%; margin:0 auto;
-
-	
-}
-
-
-
-
-
-</style>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-}
+		header img{
+			display:inline-block
+			}
+		
+		header{ 
+			text-align:center;
+			}
+		
+		h2{ 
+			font-size:20px;
+			font-family:Georgia;
+			padding:10px;
+			font-weight:bold;
+				
+		}
+		
+		footer{
+			font-size:10px;
+			border:bottom;
+			
+			
+			
+		}
