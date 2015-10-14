@@ -54,9 +54,42 @@ table {
 /* END RESET */
 
 header{
-	float:left;
-
+	display:block;
+	float:right;
+	font-family:Helvetica;
+	font-size:50px;
+	width:50%;
 	
 }
 
+h5{
+	float:right;
+	font-family:helvetica;
+	font-size:15px;
+	width:50%;
+		
+}
 
+
+
+
+
+ul{
+	font-size:20px;
+	margin:20px;
+	width:30%;
+	padding-top:120px;
+	
+}
+
+section ol{
+	position:relative;
+	float:right;
+	width:65%;
+	
+}
+
+a{ position:bottom;
+	
+	
+}
