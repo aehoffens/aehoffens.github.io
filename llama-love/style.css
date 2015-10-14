@@ -52,15 +52,25 @@ table {
 
 /* -----------------END RESET---------------- */
 
-section{
-	float:left;
-	width:50%;
-	font-family:helvetica;
-	font-size:20px;
 
+article{
+	width:490px;
+	margin:40px;
+	float:left;
 }
 
-img {
+#llama{
+	margin:25px;
+	padding:10px;
 	float:left;
-	width:50%;
+	margin:20px 20px;
 }
+
+#llama2{
+	margin:25px;
+	padding:10px;
+	float:left;
+	margin:20px 20px;
+	
+}
+
