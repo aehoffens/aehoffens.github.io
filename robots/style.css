@@ -113,3 +113,31 @@ body{
 		
 		
 	}
+	
+	#content-wrapper{
+		margin:0 auto;
+		width:70%;
+	}
+	
+	#footer-wrapper{
+		background-color:brown;
+		width:100%;
+		height:100px;
+		
+	}
+	
+	#footer-contact{
+		float:left
+		width:50%;
+		
+	}
+	
+	#footer-follow{
+		float:right;
+	
+	}
+	
+	#site-footer{
+		margin:0 auto;
+		width:70%;
+	}
