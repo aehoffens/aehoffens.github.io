@@ -112,9 +112,22 @@ table {
 		footer{
 			border-top:5px;
 			margin-bottom:5px;
-			
-			
+
 		}
+		
+		#source {float:left;
+			padding-top:30px;
+			border-top:5px solid black;
+			margin-top:5px;
+			width:50%;
+		
+			}
+		#copyright {float:right;
+			padding-top:30px;
+			border-top:5px solid black;
+			margin-top:5px;
+			width:50%;
+			}
 		
 		img {max-width:100%}
 		
