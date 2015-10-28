@@ -115,3 +115,22 @@ table {
 			
 			
 		}
+		
+		img {max-width:100%}
+		
+		@media screen and (max-width:600) {
+			nav {float:none; width:98%; margin:0 1%; }
+			section{ float: none; width:98%; margin:0 1%; }
+			h1 {font-size:4em;}
+			h2 {font-size:3em;}
+			
+		}
+		
+		@media screen and (max-width:400) {
+			nav {float:none; width:98%; margin:0 5%; }
+			section{ float: none; width:98%; margin:0 5%; }
+			h1 {font-size:4em;}
+			h2 {font-size:3em;}
+			
+		}
+		
