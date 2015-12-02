@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+		<title>Drosmy Beauty Salon </title>
+		<link rel="stylesheet" type="text/css" href="reset.css">
+  </head>
+  <body>
+	<header> 	 
+		<nav>
+			<ul>
+	        <li>Contact</li>
+	        <li>About</li>
+			<li>Gallery</li>
+	        <li>Prices</li>
+	        <li>Book Appointment</li>
+			</ul>
+	      </nav>
+	</header>
+
+<section> 
+<p>Holiday hours</p>
+<p>New client specials</p>
+<p>Deal of the week </p>
+
+<img src="tree1" alt="tree for holiday hours">
+
+
+
+
+
+
+</section>
+
+
+	
